@@ -90,6 +90,7 @@ redes-sociales {
   cursor: pointer;
   transition: background-color 0.3s ease;
   border-radius: 5px;
+  transform: translate(43%, 15%);
 }
 
 .btn:hover {
